@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "prompts": [
+    {
+      "id": "astro-cat",
+      "title": "Кот в скафандре",
+      "prompt": "Рыжий кот в стеклянном скафандре на фоне Земли, звёздное небо, кинематографичный свет, высокая детализация",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "1:1",
+      "quality": "high",
+      "tags": ["животные", "космос"],
+      "preview": ""
+    },
+    {
+      "id": "neon-city",
+      "title": "Неоновый город под дождём",
+      "prompt": "Ночной мегаполис в стиле киберпанк, неоновые вывески, мокрый асфальт с отражениями, лёгкий туман, кинематографичный кадр",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "16:9",
+      "quality": "high",
+      "tags": ["город", "киберпанк"],
+      "preview": ""
+    },
+    {
+      "id": "watercolor-forest",
+      "title": "Акварельный лес",
+      "prompt": "Утренний туманный лес, мягкие лучи солнца сквозь деревья, акварельная живопись, пастельные тона",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "3:4",
+      "quality": "medium",
+      "tags": ["природа", "живопись"],
+      "preview": ""
+    },
+    {
+      "id": "portrait-rembrandt",
+      "title": "Портрет в стиле Рембрандта",
+      "prompt": "Портрет пожилого мужчины с бородой, драматичный свет в стиле Рембрандта, тёмный фон, масляная живопись, музейное качество",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "3:4",
+      "quality": "high",
+      "tags": ["портрет", "классика"],
+      "preview": ""
+    },
+    {
+      "id": "isometric-cafe",
+      "title": "Изометрическое кафе",
+      "prompt": "Изометрическая иллюстрация уютной кофейни, тёплые цвета, миниатюрные детали, растения, мягкие тени, flat 3D стиль",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "1:1",
+      "quality": "medium",
+      "tags": ["иллюстрация", "интерьер"],
+      "preview": ""
+    },
+    {
+      "id": "dragon-flight",
+      "title": "Полёт дракона",
+      "prompt": "Огромный золотой дракон летит над горными вершинами на закате, эпический масштаб, детализированная чешуя, фэнтези-арт",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "16:9",
+      "quality": "high",
+      "tags": ["фэнтези", "эпик"],
+      "preview": ""
+    },
+    {
+      "id": "minimal-poster",
+      "title": "Минималистичный постер гор",
+      "prompt": "Минималистичный постер: силуэты гор в три цвета, плоский дизайн, много воздуха, швейцарская типографика",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "3:4",
+      "quality": "medium",
+      "tags": ["дизайн", "минимализм"],
+      "preview": ""
+    },
+    {
+      "id": "macro-dew",
+      "title": "Макро: капли росы",
+      "prompt": "Макросъёмка капель росы на зелёном листе, внутри капли отражается рассвет, боке, фотореализм",
+      "type": "image",
+      "model": "google/gemini-2.5-flash-image",
+      "aspectRatio": "4:3",
+      "quality": "high",
+      "tags": ["природа", "макро"],
+      "preview": ""
+    },
+    {
+      "id": "ocean-drone",
+      "title": "Океан с дрона",
+      "prompt": "Вид сверху на бирюзовый океан и белую пену волн, песчаное дно просвечивает, съёмка с дрона, летний полдень",
+      "type": "video",
+      "model": "",
+      "aspectRatio": "16:9",
+      "durationSec": 5,
+      "tags": ["природа", "видео"],
+      "preview": ""
+    },
+    {
+      "id": "city-timelapse",
+      "title": "Таймлапс ночного города",
+      "prompt": "Плавный пролёт камеры над ночным городом, огни машин превращаются в светящиеся линии, таймлапс, кинематографично",
+      "type": "video",
+      "model": "",
+      "aspectRatio": "16:9",
+      "durationSec": 5,
+      "tags": ["город", "видео"],
+      "preview": ""
+    }
+  ]
+}
