@@ -2,15 +2,15 @@
   "version": 1,
   "prompts": [
     {
-      "id": "astro-cat",
-      "title": "Кот в скафандре",
-      "prompt": "Рыжий кот в стеклянном скафандре на фоне Земли, звёздное небо, кинематографичный свет, высокая детализация",
+      "id": "portret1",
+      "title": "Неформальный портрет",
+      "prompt": "Ultra-realistic cinematic black-and-white portrait of a confident, stylish man standing indoors in a luxurious setting with a soft blurred background (bokeh). He has neatly styled, textured hair, a well-groomed appearance, and wears premium matte-black round sunglasses. Outfit includes a tailored charcoal black luxury blazer, a crisp white dress shirt with the top buttons open, a minimalist silver chain necklace, a classic luxury stainless-steel wristwatch, black tailored trousers, and a premium leather belt. His right hand is casually adjusting the shirt collar, while he looks away from the camera with a calm, confident expression. Soft low light filters the modern cafe, creating beautiful highlights and depth. The composition is elegant, masculine, and editorial, inspired by luxury fashion magazines. Shallow depth of field, creamy background bokeh, ultra-detailed facial features, realistic skin texture, premium fabric details, razor-sharp focus on the face, HDR, high contrast, monochrome photography, 85mm lens, f/1.8, professional color grading, cinematic lighting, museum-quality, Vogue-style fashion portrait, 8K Ultra HD, photorealistic, masterpiece, ultra-high detail. Negative Prompt: low quality, blurry, cartoon, painting, CGI, unrealistic face, bad anatomy, extra fingers, extra people, duplicate body parts, deformed hands, distorted face, oversaturated, noise, watermark, text, logo, frame, cropped, out of focus, low resolution, motion blur, artifacts. Aspect Ratio: 4:5 (Portrait). Quality Tags: photorealistic, ultra realistic, RAW photo, HDR, 8K, masterpiece, best quality, ultra detailed, professional photography, cinematic, editorial fashion, luxury aesthetic, sharp focus",
       "type": "image",
       "model": "google/gemini-2.5-flash-image",
       "aspectRatio": "1:1",
       "quality": "high",
-      "tags": ["животные", "космос"],
-      "preview": ""
+      "tags": ["портрет"],
+      "preview": "previews/photo_2026-08-08_19-29-16.jpg"
     },
     {
       "id": "neon-city",
