@@ -13,15 +13,15 @@
       "preview": "previews/photo_2026-08-08_19-29-16.jpg"
     },
     {
-      "id": "neon-city",
-      "title": "Неоновый город под дождём",
-      "prompt": "Ночной мегаполис в стиле киберпанк, неоновые вывески, мокрый асфальт с отражениями, лёгкий туман, кинематографичный кадр",
+      "id": "fullbody-portrait",
+      "title": "Ростовой портрет в тёмных очках",
+      "prompt": "Create a hyper-realistic, ultra-HD fashion portrait of a stylish young man walking confidently on a modern luxury city street during golden hour. He is captured in a full-body shot with one leg naturally crossing in front of the other, both hands casually inside his trouser pockets, head slightly turned to the right, looking away from the camera with a calm, confident expression. He has naturally styled hair and wears black premium sunglasses. Outfit: a perfectly fitted black full-sleeve button-up shirt with the top two buttons open, sleeves rolled to the forearms, tucked neatly into slim-fit cream/beige tailored trousers with a black leather belt. White luxury minimalist sneakers, a premium silver wristwatch on the left wrist, and a thin silver chain around the neck. Background: a luxurious urban downtown street with elegant dark stone buildings, cinematic architecture, soft warm glowing window lights, subtle reflections on the pavement, shallow depth of field, creamy bokeh, and a blurred black luxury sports car with bright LED headlights visible behind him on the right side. No people in the background. Lighting: warm golden-hour sunlight mixed with soft cinematic ambient lighting, dramatic shadows, realistic skin tones, natural highlights on the face and clothes, premium editorial fashion photography. Camera: full-body composition, eye-level angle, 85mm lens, f/1.8 aperture, DSLR quality, razor-sharp focus on the subject, highly detailed fabric texture, realistic hair strands, photorealistic skin, HDR, ultra-detailed, 8K resolution, magazine cover quality, luxury lifestyle aesthetic. Remove all text, logos, captions, watermarks, movie clapper icon, and graphic elements from the image. Keep only the subject and the cinematic background. No typography anywhere in the frame. Premium color grading, high contrast, natural depth, realistic proportions, professional fashion campaign, ultra-photorealistic. Negative Prompt: text, letters, logo, watermark, banner, caption, movie clapper, poster design, low quality, blurry, cartoon, CGI, painting, illustration, extra fingers, deformed hands, bad anatomy, duplicate body parts, oversaturated colors, noise, artifacts, cropped feet, distorted face, unrealistic lighting, low resolution, overexposed, underexposed. Aspect ratio 4:5",
       "type": "image",
-      "model": "google/gemini-2.5-flash-image",
-      "aspectRatio": "16:9",
+      "model": "qwen/qwen-image-3-pro",
+      "aspectRatio": "4:5",
       "quality": "high",
-      "tags": ["город", "киберпанк"],
-      "preview": ""
+      "tags": ["город", "портрет"],
+      "preview": "previews/photo_2026-08-08_19-54-05.jpg"
     },
     {
       "id": "watercolor-forest",
